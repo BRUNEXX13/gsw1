@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: atm-back
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bruno
+Implementation-Vendor-Id: com.arm.atm
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/atm-back/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
